@@ -247,6 +247,7 @@
   <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X"/>
   <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter"/>
   <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter"/>
+  <icon drawable="@drawable/uber_cabs" package="com.ubercab" name="uber"/>
   <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp"/>
   <icon drawable="@drawable/wordpress" package="org.wordpress.android" name="WordPress"/>
   <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube"/>

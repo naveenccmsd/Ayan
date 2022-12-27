@@ -905,6 +905,9 @@
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.stub.MainActivity}" drawable="twitter"/>
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
   <item component="ComponentInfo{com.twitter.android/com.twitter.applib.StartActivity}" drawable="twitter"/>
+  <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber_cabs"/>
+  <item component="ComponentInfo{com.ubercab/com.ubercab.activities.MapActivity}" drawable="uber_cabs"/>
+  <item component="ComponentInfo{com.ubercab/com.ubercab.UBUberActivity}" drawable="uber_cabs"/>
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.70}" drawable="whatsapp"/>
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.53}" drawable="whatsapp"/>
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp"/>
