@@ -11,6 +11,7 @@
   <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager"/>
   <icon drawable="@drawable/apps_backup_restore" package="com.touchfield.appbackuprestore" name="apps_backup_restore"/>
   <icon drawable="@drawable/ar_zone" package="com.samsung.android.arzone" name="AR Zone"/>
+  <icon drawable="@drawable/ayan_icons" package="app.ayan.dev" name="ayan_icons"/>
   <icon drawable="@drawable/bigbasket" package="com.bigbasket.mobileapp" name="BigBasket"/>
   <icon drawable="@drawable/bookmyshow" package="com.bt.bms" name="bookmyshow"/>
   <icon drawable="@drawable/calculator" package="com.android.bbkcalculator" name="Calculator"/>
@@ -209,7 +210,7 @@
   <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe"/>
   <icon drawable="@drawable/newpipe" package="org.schabi.newpipe.nightly" name="NewPipe"/>
   <icon drawable="@drawable/newpipe" package="org.schabi.newpipelegacy" name="NewPipe"/>
-  <icon drawable="@drawable/nova_launcher" package="app.ayan.dev" name="nova_launcher"/>
+  <icon drawable="@drawable/nova_launcher" package="com.teslacoilsw.launcher" name="nova_launcher"/>
   <icon drawable="@drawable/ola_cabs" package="com.olacabs.customer" name="ola_cabs"/>
   <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera"/>
   <icon drawable="@drawable/opera_browser" package="com.opera.touch" name="Opera"/>
@@ -218,9 +219,9 @@
   <icon drawable="@drawable/paytm" package="net.one97.paytm" name="Paytm"/>
   <icon drawable="@drawable/reddit" package="com.devgary.ready" name="Ready"/>
   <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit"/>
-  <icon drawable="@drawable/samsung_camera" package="com.sec.android.app.camera" name="Camera"/>
-  <icon drawable="@drawable/samsung_camera" package="com.sec.android.gallery3d" name="samsung_camera"/>
+  <icon drawable="@drawable/samsung_camera" package="com.sec.android.app.camera" name="samsung_camera"/>
   <icon drawable="@drawable/samsung_free" package="com.samsung.android.app.spage" name="Samsung Free"/>
+  <icon drawable="@drawable/samsung_gallery" package="com.sec.android.gallery3d" name="samsung_gallery"/>
   <icon drawable="@drawable/samsung_store" package="com.sec.android.app.samsungapps" name="Galaxy Store"/>
   <icon drawable="@drawable/settings" package="com.android.settings" name="Settings"/>
   <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="ShareMe"/>
