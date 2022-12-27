@@ -17,6 +17,8 @@
   <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.light.debug" name="arcticons"/>
   <icon drawable="@drawable/ayan_icons" package="app.ayan.dev" name="ayan_icons"/>
   <icon drawable="@drawable/bigbasket" package="com.bigbasket.mobileapp" name="BigBasket"/>
+  <icon drawable="@drawable/blackberry_uem" package="com.rim.mobilefusion.client" name="BlackBerry UEM"/>
+  <icon drawable="@drawable/blackberry_work" package="com.good.gcs" name="BlackBerry Work"/>
   <icon drawable="@drawable/bookmyshow" package="com.bt.bms" name="bookmyshow"/>
   <icon drawable="@drawable/calculator" package="com.android.bbkcalculator" name="Calculator"/>
   <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator"/>
@@ -245,6 +247,7 @@
   <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram"/>
   <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram X"/>
   <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X"/>
+  <icon drawable="@drawable/twelve_club" package="com.twelve.club" name="twelve_club"/>
   <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter"/>
   <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter"/>
   <icon drawable="@drawable/uber_cabs" package="com.ubercab" name="uber"/>

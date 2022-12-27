@@ -29,6 +29,8 @@
   <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons"/>
   <item component="ComponentInfo{app.ayan.dev/app.ayan.dev.activities.SplashActivity}" drawable="ayan_icons"/>
   <item component="ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity}" drawable="bigbasket"/>
+  <item component="ComponentInfo{com.rim.mobilefusion.client/com.blackberry.ema.ui.SplashScreenActivity}" drawable="blackberry_uem"/>
+  <item component="ComponentInfo{com.good.gcs/com.good.gcs.activity.GCSMainActivity}" drawable="blackberry_work"/>
   <item component="ComponentInfo{com.bt.bms/com.movie.bms.splash.views.activities.SplashScreenActivity}" drawable="bookmyshow"/>
   <item component="ComponentInfo{com.bt.bms/com.bt.bms.activities.SplashActivity}" drawable="bookmyshow"/>
   <item component="ComponentInfo{com.bt.bms/com.bt.bms.activity.SplashActivity}" drawable="bookmyshow"/>
@@ -896,6 +898,7 @@
   <item component="ComponentInfo{org.forkgram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram"/>
   <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegram"/>
   <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}" drawable="telegram"/>
+  <item component="ComponentInfo{com.twelve.club/com.twelve.club.appUseCases.common.SplashActivity}" drawable="twelve_club"/>
   <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon5}" drawable="twitter"/>
   <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.seasonal_icon20}" drawable="twitter"/>
   <item component="ComponentInfo{com.twitter.android.lite/com.twitter.android.lite.LauncherActivity}" drawable="twitter"/>
