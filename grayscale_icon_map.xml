@@ -11,6 +11,10 @@
   <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager"/>
   <icon drawable="@drawable/apps_backup_restore" package="com.touchfield.appbackuprestore" name="apps_backup_restore"/>
   <icon drawable="@drawable/ar_zone" package="com.samsung.android.arzone" name="AR Zone"/>
+  <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons" name="arcticons"/>
+  <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.debug" name="arcticons"/>
+  <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.light" name="arcticons"/>
+  <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.light.debug" name="arcticons"/>
   <icon drawable="@drawable/ayan_icons" package="app.ayan.dev" name="ayan_icons"/>
   <icon drawable="@drawable/bigbasket" package="com.bigbasket.mobileapp" name="BigBasket"/>
   <icon drawable="@drawable/bookmyshow" package="com.bt.bms" name="bookmyshow"/>

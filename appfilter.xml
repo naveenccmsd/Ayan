@@ -19,6 +19,14 @@
   <item component="ComponentInfo{cz.seeq.prog.android.packageviewer/cz.seeq.prog.android.packageviewer.PackagesActivity}" drawable="app_manager"/>
   <item component="ComponentInfo{com.touchfield.appbackuprestore/com.touchfield.appbackuprestore.MainActivity}" drawable="apps_backup_restore"/>
   <item component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}" drawable="ar_zone"/>
+  <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.light.debug/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.light.debug/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons"/>
+  <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons"/>
   <item component="ComponentInfo{app.ayan.dev/app.ayan.dev.activities.SplashActivity}" drawable="ayan_icons"/>
   <item component="ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity}" drawable="bigbasket"/>
   <item component="ComponentInfo{com.bt.bms/com.movie.bms.splash.views.activities.SplashScreenActivity}" drawable="bookmyshow"/>
