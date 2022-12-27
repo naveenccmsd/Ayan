@@ -22,7 +22,7 @@ If any one intrested to contribute , Below are basic rules.
 
 - lines can have a thickness of 6px.
 - The icons should be drawn in black.
-- Can have opacity as 25%,50%,75%. (Can have mutilple of 20 if icon demands it).
+- Can have opacity as 25%, 50%, 75%. (also mutilple of 20 if icon demands it).
 
 
 ## Credits
