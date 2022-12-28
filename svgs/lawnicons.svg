@@ -1,1 +1,66 @@
-<svg id="vector" xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72"><path fill="#000" d="M15.954,15.954m-15.954,0a15.954,15.954 0,1 1,31.908 0a15.954,15.954 0,1 1,-31.908 0" stroke-width="7.658" stroke="#00000000" fill-opacity="0.5" id="path_0"/><path fill="#000" d="M56.046,56.046m-15.954,0a15.954,15.954 0,1 1,31.908 0a15.954,15.954 0,1 1,-31.908 0" stroke-width="7.658" stroke="#00000000" fill-opacity="0.7470588" id="path_1"/><path fill="#000" d="M0,40.092L31.908,40.092L31.908,72L0,72Z" stroke-linejoin="round" stroke-width="7.658" stroke="#00000000" id="path_2"/><path fill="#000" d="m56.046,0l-15.954,27.634l31.908,0z" stroke-linejoin="round" stroke-width="7.658" stroke="#00000000" fill-opacity="0.25" id="path_3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="vector"
+   width="72"
+   height="72"
+   viewBox="0 0 72 72"
+   version="1.1"
+   sodipodi:docname="lawnicons.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.7569444"
+     inkscape:cx="13.809409"
+     inkscape:cy="46.899879"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector" />
+  <path
+     fill="#000"
+     d="M15.954,15.954m-15.954,0a15.954,15.954 0,1 1,31.908 0a15.954,15.954 0,1 1,-31.908 0"
+     stroke-width="7.658"
+     stroke="#00000000"
+     fill-opacity="0.5"
+     id="path_0" />
+  <path
+     fill="#000"
+     d="M56.046,56.046m-15.954,0a15.954,15.954 0,1 1,31.908 0a15.954,15.954 0,1 1,-31.908 0"
+     stroke-width="7.658"
+     stroke="#00000000"
+     fill-opacity="0.7470588"
+     id="path_1" />
+  <path
+     fill="#000000"
+     d="M 2.45331,43.453306 H 28.546694 V 69.54669 H 2.45331 Z"
+     stroke-linejoin="round"
+     stroke-width="7.658"
+     stroke="#00000000"
+     id="path_2"
+     style="stroke:#000000;stroke-width:4.90662;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     fill="#000000"
+     d="M 53.04622,2.9997001 37.09222,30.6337 h 31.908 z"
+     stroke-linejoin="round"
+     stroke-width="7.658"
+     stroke="#00000000"
+     fill-opacity="0.25"
+     id="path_3"
+     style="fill:#000000;fill-opacity:0.992908;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+</svg>

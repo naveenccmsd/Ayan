@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{org.calyxos.etar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_"/>
-  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_"/>
+  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{org.calyxos.etar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe"/>
   <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.webapp.activity.AlexaWebAppActivity}" drawable="amazon_alexa"/>
   <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="amazon_alexa"/>

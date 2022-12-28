@@ -259,6 +259,8 @@
   <icon drawable="@drawable/zomoto" package="com.application.zomato" name="Zomoto"/>  
   <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom"/>  
   <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
+  <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="google_calendar_"/>
@@ -270,5 +272,4 @@
   <calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{org.calyxos.etar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
-  <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
 </icons>
