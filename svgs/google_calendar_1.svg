@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8.1415489"
-     inkscape:cx="2.2722949"
+     inkscape:cx="-12.589742"
      inkscape:cy="39.30456"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -38,7 +38,8 @@
        fill="#000000"
        d="m 36.9175,29.7835 -3.591,2.61 -1.805,-2.738 6.475,-4.671 h 2.482 v 22.031 h -3.562 z"
        fill-opacity="0.75"
-       id="path_2" />
+       id="path_2"
+       style="fill:#000000;fill-opacity:1" />
     <path
        fill="#000"
        d="m54.948,72l17.052,-17.052 -8.526,-0 -8.526,0 -0,8.526z"
