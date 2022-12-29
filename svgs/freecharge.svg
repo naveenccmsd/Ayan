@@ -1,1 +1,41 @@
-<svg id="vector" xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 5.7779 8.0624"><path fill="#000" d="m4.3103,1.0455c0.2054,-0.0047 0.4102,0.0257 0.6053,0.09l0.2337,-1.0555c-0.2611,-0.0604 -0.529,-0.0868 -0.7969,-0.0785 -1.1589,0 -1.8562,0.4808 -2.1436,1.5325 -0.1705,0.6283 -0.1724,0.8793 -0.6226,0.8908h-0.3946l-0.136,0.9999h0.9885l-1.2873,2.5305h0.9444l-1.0727,2.1072 2.9271,-3.0401h-1.1015l1.883,-1.8773 0.1341,-0.7279h-1.1494l0.0575,-0.4234c0.09,-0.6628 0.3831,-0.9578 0.9329,-0.9578" stroke-width="0.191561" fill-rule="evenodd" stroke="#00000000" id="path_0"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="vector"
+   width="72"
+   height="72"
+   viewBox="0 0 5.7779 8.0624"
+   version="1.1"
+   sodipodi:docname="freecharge.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1217" />
+  <sodipodi:namedview
+     id="namedview1215"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.7569444"
+     inkscape:cx="12.419783"
+     inkscape:cy="41.688782"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector" />
+  <path
+     d="M 5.1004251,8.0624001 3.15362,4.7104966 -0.8143626,3.6487502 6.5922626,-7e-8 6.305699,1.7348719 3.6475199,3.0400755 4.0800612,3.7882522 6.0839873,2.7530214 5.8071125,4.4757932 4.8310914,4.949162 5.4402127,6.0027078 Z"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34373;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     id="path4716"
+     inkscape:label="path4716"
+     sodipodi:nodetypes="cccccccccccc" />
+</svg>
