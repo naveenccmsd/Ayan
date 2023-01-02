@@ -24,6 +24,11 @@
   <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.debug" name="arcticons"/>  
   <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.light" name="arcticons"/>  
   <icon drawable="@drawable/arcticons" package="com.donnnno.arcticons.light.debug" name="arcticons"/>  
+  <icon drawable="@drawable/ayan_clock" package="com.android.deskclock" name="Clock"/>  
+  <icon drawable="@drawable/ayan_clock" package="com.dslit.floatingclock" name="Floating Clock"/>  
+  <icon drawable="@drawable/ayan_clock" package="com.google.android.deskclock" name="Clock"/>  
+  <icon drawable="@drawable/ayan_clock" package="com.sec.android.app.clockpackage" name="Clock"/>  
+  <icon drawable="@drawable/ayan_clock" package="com.simplemobiletools.clock" name="Clock"/>  
   <icon drawable="@drawable/ayan_icons" package="app.ayan.dev" name="ayan_icons"/>  
   <icon drawable="@drawable/bigbasket" package="com.bigbasket.mobileapp" name="BigBasket"/>  
   <icon drawable="@drawable/blabla_car" package="com.comuto" name="blabla_car"/>  
@@ -315,4 +320,5 @@
   <calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{org.calyxos.etar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
   <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_"/>
+  <dynamic-clock drawable="ayan_clock" hourLayerIndex="0" minuteLayerIndex="1" secondLayerIndex="2" defaultHour="10" defaultMinute="10" defaultSecond="30"/>
 </icons>
