@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.7569445"
-     inkscape:cx="-18.846803"
+     inkscape:cx="-35.261761"
      inkscape:cy="64.096501"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -34,7 +34,7 @@
      inkscape:current-layer="vector" />
   <path
      fill="#00000000"
-     d="M36,3L36,36"
+     d="M 36,4 V 36"
      stroke-linejoin="round"
      stroke-width="6"
      stroke="#000"
@@ -42,7 +42,8 @@
      fill-opacity="0.25"
      stroke-linecap="round"
      id="path_0"
-     style="stroke:#000000;stroke-opacity:0;stroke-width:8;stroke-dasharray:none" />
+     style="stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:0"
+     sodipodi:nodetypes="cc" />
   <path
      fill="#00000000"
      d="M36,15L36,36"
