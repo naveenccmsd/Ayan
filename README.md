@@ -31,9 +31,9 @@ If any one intrested to contribute , Below are basic rules.
 
 The First 50 icons taken from [unicons](https://github.com/Iconscout/unicons) repo and rebuilt with consistent sizing and adjustments.
 
-### Candybar
+### Blueprint
 
-Icon pack has created based on [CandyBar](https://github.com/zixpo/candybar) Dashboard.
+Icon pack has created based on [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Dashboard.
 
 
 
