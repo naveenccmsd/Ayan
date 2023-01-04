@@ -4,7 +4,7 @@ Ayan is Material Icon Pack which support dynamic themed icons on Latest android.
 
 ## Download
 
-See the [Releases](https://github.com/LawnchairLauncher/ayan/releases) section to download the latest stable build or [Click here](https://github.com/naveenccmsd/ayan/apk/ayan-latest.apk).
+See the [Releases](https://github.com/LawnchairLauncher/ayan/releases) section to download the latest stable build or [Click here](https://github.com/naveenccmsd/Ayan/raw/main/apk/ayan-latest.apk).
 
 
 ## Screenshots
