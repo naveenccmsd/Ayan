@@ -4,7 +4,7 @@ Ayan is Material Icon Pack which support dynamic themed icons on Latest android.
 
 ## Download
 
-See the [Releases](https://github.com/LawnchairLauncher/ayan/releases) section to download the latest stable build or [Click here](https://github.com/naveenccmsd/ayan/apk/ayan-latest.apk).
+See the [Releases](https://github.com/LawnchairLauncher/ayan/releases) section to download the latest stable build or [Click here](https://github.com/naveenccmsd/Ayan/raw/main/apk/ayan-latest.apk).
 
 
 ## Screenshots
@@ -31,9 +31,9 @@ If any one intrested to contribute , Below are basic rules.
 
 The First 50 icons taken from [unicons](https://github.com/Iconscout/unicons) repo and rebuilt with consistent sizing and adjustments.
 
-### Candybar
+### Blueprint
 
-Icon pack has created based on [CandyBar](https://github.com/zixpo/candybar) Dashboard.
+Icon pack has created based on [Blueprint](https://github.com/jahirfiquitiva/Blueprint) Dashboard.
 
 
 
